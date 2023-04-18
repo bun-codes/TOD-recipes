@@ -1,0 +1,29 @@
+* {
+    background-color: #EFEFEF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    color: #26128A;
+    background-color: #DFCDC3;
+    text-align: center;
+}
+
+#anime-food {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.button {
+    color: #6C371E;
+    background-color: #DFCDC3;
+    text-align: center;
+}
+
+.description {
+    color: #26120A;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

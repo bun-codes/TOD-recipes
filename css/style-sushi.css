@@ -1,0 +1,44 @@
+body {
+    background-color: #EFEFEF;
+}
+
+h1 {
+    background-color: #DFCDC3;
+    color: #26120A;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#sushi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#header {
+    background-color: #DFCDC3;
+    color: #26120A;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.description {
+    color: #26120A;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subheader {
+    color: #C39957;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+ol,
+.check {
+    color: #26120A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
